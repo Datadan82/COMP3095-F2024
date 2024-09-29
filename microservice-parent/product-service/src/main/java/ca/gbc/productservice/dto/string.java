@@ -1,4 +1,4 @@
 package ca.gbc.productservice.dto;
 
-public class string {
+public class string extends ca.gbc.productservice.model.string {
 }
