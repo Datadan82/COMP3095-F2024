@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aaa8bd70-38a1-42fd-bc46-50934436324c" name="Changes" comment="">
+    <list default="true" id="aaa8bd70-38a1-42fd-bc46-50934436324c" name="Changes" comment="Comp3095 - Week 3 Day 2 Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,33 +21,86 @@
       <ProjectState />
     </projectState>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Datadan82&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Datadan82/COMP3095-F2024&quot;,
+    &quot;accountId&quot;: &quot;58d2fdf9-c13c-4290-b661-7497bfa2ce09&quot;
+  }
+}</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MaliciousPackageCheckinHandlerState">
+    <option name="packageCheck" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2mhAPLX2Gd6a2bXySILGQV9zoPY" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "jdk.selected.JAVA_MODULE": "22",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/owner/OneDrive/Documents/JAVA/COMP3095/microservice-parent",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.Build product-service.executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.ProductServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;22&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/owner/OneDrive/Documents/JAVA/COMP3095/microservice-parent&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: []
   }
-}]]></component>
-  <component name="RunManager" selected="Spring Boot.MicroserviceParentApplication">
+}</component>
+  <component name="Push.Settings">
+    <option name="SHOW_DETAILS_PANEL" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ca.gbc.productservice.dto" />
+      <recent name="ca.gbc.productservice.model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ProductServiceApplication">
     <configuration name="MicroserviceParentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="microservice-parent.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="ca.gbc.microserviceparent.MicroserviceParentApplication" />
@@ -79,11 +133,198 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727518410092</updated>
-      <workItem from="1727518410802" duration="434000" />
+      <workItem from="1727518410802" duration="4220000" />
+      <workItem from="1727571140542" duration="4115000" />
+      <workItem from="1727576431686" duration="392000" />
+      <workItem from="1727578335852" duration="858000" />
     </task>
+    <task id="LOCAL-00001" summary="Comp3095 - First Commit">
+      <option name="closed" value="true" />
+      <created>1727519020630</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727519020630</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Comp3095 - First Commit">
+      <option name="closed" value="true" />
+      <created>1727519030542</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727519030542</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Comp3095 - First Commit">
+      <option name="closed" value="true" />
+      <created>1727519045695</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727519045695</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Comp3095 - First Commit">
+      <option name="closed" value="true" />
+      <created>1727519097863</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727519097863</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Comp3095 - Week 3 Day 2 Commit">
+      <option name="closed" value="true" />
+      <created>1727574785660</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727574785660</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Comp3095 - Week 3 Day 2 Commit">
+      <option name="closed" value="true" />
+      <created>1727574886534</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727574886534</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Comp3095 - Week 3 Day 2 Commit">
+      <option name="closed" value="true" />
+      <created>1727574949814</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1727574949814</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Comp3095 - Week 3 Day 2 Commit">
+      <option name="closed" value="true" />
+      <created>1727575063377</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1727575063377</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Comp3095 - Week 3 Day 2 Commit">
+      <option name="closed" value="true" />
+      <created>1727575241153</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1727575241153</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Comp3095 - Week 3 Day 2 Commit">
+      <option name="closed" value="true" />
+      <created>1727576141744</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1727576141744</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Comp3095 - Week 3 Day 2 Commit">
+      <option name="closed" value="true" />
+      <created>1727576182285</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1727576182285</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Comp3095 - Week 3 Day 2 Commit">
+      <option name="closed" value="true" />
+      <created>1727576466653</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1727576466653</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Comp3095 - Week 3 Day 2 Commit">
+      <option name="closed" value="true" />
+      <created>1727576483057</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1727576483057</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Comp3095 - Week 3 Day 2 Commit">
+      <option name="closed" value="true" />
+      <created>1727576606277</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1727576606277</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Comp3095 - Week 3 Day 2 Commit">
+      <option name="closed" value="true" />
+      <created>1727576644163</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1727576644163</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Comp3095 - Week 3 Day 2 Commit">
+      <option name="closed" value="true" />
+      <created>1727577450259</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1727577450259</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Comp3095 - Week 3 Day 2 Commit">
+      <option name="closed" value="true" />
+      <created>1727577759973</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1727577759973</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Comp3095 - Week 3 Day 2 Commit">
+      <option name="closed" value="true" />
+      <created>1727578631020</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1727578631020</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Comp3095 - Week 3 Day 2 Commit">
+      <option name="closed" value="true" />
+      <created>1727578645256</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1727578645256</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Comp3095 - Week 3 Day 2 Commit">
+      <option name="closed" value="true" />
+      <created>1727578984548</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1727578984548</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="Comp3095 - First Commit" />
+    <MESSAGE value="Comp3095 - Week 3 Day 2 Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Comp3095 - Week 3 Day 2 Commit" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
